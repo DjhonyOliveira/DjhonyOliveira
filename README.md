@@ -1,10 +1,10 @@
 ### Olá, me chamo Djonatan Rodrigues de Oliveira 👋
-
+##
 
 Sou Analista de Suporte Pleno I, atendo especificamente clientes de grande relevancia, independete do modulo do sistema, resolvo demandas também voltadas a desenvolvimento básico do sistema como consultas em SQL, ajustes de front principalmente em HTML, CSS e JS para a plataforma de e-commerce da empresa <a href="https://www.magazord.com.br/">Magazord</a> 
 
-- 🔭 Atualmente estou trabalhando como analista de suporte
-- 🌱 Estou estudando desenvolvimento FullStack com foco em JavaScript
+- 🔭 Atualmente estou trabalhando como Analista de Suporte;
+- 🌱 Estou estudando desenvolvimento FullStack com foco em JavaScript <a href="https://onebitcode.com/lp/">By OneBitCode</a>
 .
 
 <br />
@@ -22,4 +22,12 @@ Sou Analista de Suporte Pleno I, atendo especificamente clientes de grande relev
   <img align="center" alt="djhony-Sass" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />      
   <img align="center" alt="djhony-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
   <img align="center" alt="djhony-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />        
+</div>
+  
+  ##
+  
+<div>
+  <a href="https://www.linkedin.com/in/djonatan-rodrigues-473080255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="mailto:djonatan.rodrigues@magazord.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+   <a href="https://www.instagram.com/djonatan_r_oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
