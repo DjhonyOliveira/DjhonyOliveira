@@ -4,6 +4,7 @@
 Sou Analista de Suporte Pleno I, atendo especificamente clientes de grande relevancia, independente do modulo de sistema, resolvo demandas também voltadas a desenvolvimento básico do sistema, como consultas em SQL, ajustes de front principalmente em HTML, CSS e JS para a plataforma de e-commerce da empresa <a href="https://www.magazord.com.br/">Magazord</a> 
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte;
+- 📚 Cursando ensino superior, bacharel em sistemas da informação - Unidavi;
 - 🌱 Estou estudando desenvolvimento FullStack com foco em JavaScript <a href="https://onebitcode.com/lp/">OneBitCode</a>
 .
 
