@@ -6,6 +6,7 @@ Sou Analista de Suporte Pleno I, atendo especificamente clientes de grande relev
 - 🔭 Atualmente estou trabalhando como Analista de Suporte;
 - 📚 Cursando ensino superior, <a href="https://www.unidavi.edu.br/cursos/sistemasdeinformacao">bacharel em sistemas da informação</a> - <a href="https://www.unidavi.edu.br/">Unidavi</a>;
 - 🌱 Estou estudando desenvolvimento FullStack com foco em JavaScript <a href="https://onebitcode.com/lp/">OneBitCode</a>
+- 📚 Estudando também FullStack em PHP <a href="https://www.upinside.com.br/">Upinside</a>
 .
 
 <br />
