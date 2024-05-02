@@ -1,7 +1,7 @@
 ### Olá, me chamo Djonatan Rodrigues de Oliveira 👋
 ##
 
-Sou Programador Backend PHP aprendiz, inicei minha jornada como desenvolvedor na IPM Sistema, empresa que desenvolve um software para gestão pública. Atuo no setor de contabilidade da plataforma. 
+Sou Programador Backend PHP aprendiz, iniciei minha jornada como desenvolvedor na IPM Sistemas, empresa que desenvolve um software para gestão pública. Atuo no setor de contabilidade da plataforma. 
 
 - 🔭 Atualmente estou trabalhando como programador backend PHP;
 - 📚 Cursando ensino superior, <a href="https://www.unidavi.edu.br/cursos/sistemasdeinformacao">bacharel em sistemas da informação</a> - <a href="https://www.unidavi.edu.br/">Unidavi</a>;
